@@ -1,16 +1,13 @@
-# flutter_quiz_maker_app
+# Quiz_maker_app
 
-A new Flutter application.
+This app is made with Flutter-Dart and Firebase. A simple quiz app to make and play multiple choice quizes. 
 
-## Getting Started
+Features of the app :
 
-This project is a starting point for a Flutter application.
+1. When playing the quiz, the player can only attempt the questions in the quiz once.
+2. After choosing the answer, if the answer is wrong, chosen option is displayed in red. If the chosen option is the right answer then displayed as green.
 
-A few resources to get you started if this is your first Flutter project:
+The correct option for each question in the quiz is determined by the user who is creating the quiz.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+A fun app you can use to test something you have studied, since you can CREATE the QUIZ and PLAY THE SAME!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
